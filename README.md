@@ -1,9 +1,9 @@
 
 # Clima ☁
 
-## Our Goal
+## Goal
 
-The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
+I implemented asynchronous programming in Dart and how to carry out time consuming tasks such as getting device location and networking to get data from the internet. 
 
 
 ## What I tried to create
